@@ -3,7 +3,7 @@ reverse proxy that logs all http calls _(be aware, WebSocket wont work, Comet an
 ##installation
 if you planing on using the cli, install globally (`-g`)
 
-    npm install kalliope.logProxy
+    npm install https://github.com/Bonuspunkt/kalliope.logProxy/tarball/master
 
 ## usage as module
 
