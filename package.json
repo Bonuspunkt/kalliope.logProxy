@@ -15,9 +15,9 @@
     "test": "node test/test.js"
   },
   "dependencies": {
-    "commander": "~0.5.2"
+    "commander": "~2.11.0"
   },
   "devDependencies": {
-    "tap": "~0.2.0"    
+    "tap": "~10.7.2"    
   }
 }
