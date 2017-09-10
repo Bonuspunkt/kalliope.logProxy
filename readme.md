@@ -1,4 +1,6 @@
 # kalliope.logProxy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Bonuspunkt/kalliope.logProxy.svg)](https://greenkeeper.io/)
 reverse proxy that logs all http calls _(be aware, WebSocket wont work, Comet and EventSource might not be logged like expected)_
 ##installation
 if you planing on using the cli, install globally (`-g`)
